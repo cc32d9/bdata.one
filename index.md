@@ -2,7 +2,7 @@
 
 BDATA.one is a public service providing access to various blockchain data archives, as follows:
 
-1. [EOSIO Blockchain activity analytics](./eosio-activity.html).
+1. [Daily activity analytics for public EOSIO chains](./eosio-activity.html)
 2. Financial accounting data (coming soon)
 
 
