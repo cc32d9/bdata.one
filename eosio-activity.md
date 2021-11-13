@@ -9,5 +9,6 @@ mysql --host=eu01.pub.bdata.one --port=3301 --user=eosio_activity_ro --password=
 
 show tables;
 
-select count(distinct authorizer) as USERS, sum(counter) as CNT, contract from eos_DAILY_COUNTS where xday = '2021-11-09' group by contract  order by CNT desc limit 30;
+select count(distinct authorizer) as USERS, sum(counter) as CNT, contract 
+from eos_DAILY_COUNTS where xday = '2021-11-09' group by contract  order by CNT desc limit 30;
 ```
