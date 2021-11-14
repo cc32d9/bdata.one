@@ -6,7 +6,9 @@ BDATA.one is a public service providing access to various blockchain data archiv
 2. Financial accounting data (coming soon)
 
 
-## Sponsoring
+
+
+# sponsors
 
 This service is sponsored by [EOS Blockchain Community](https://pomelo.io/grants/accounting)
 
