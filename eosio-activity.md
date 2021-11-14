@@ -41,9 +41,15 @@ mysql --host=eu01.pub.bdata.one --port=3301 \
 select count(distinct authorizer) as USERS, sum(counter) as CNT, contract 
 from eos_DAILY_COUNTS where xday = '2021-11-09' group by contract  order by CNT desc limit 30;
 
-# top 30 accounts that authorized actions on a specific contract during a day
+# top 30 accounts that authorized actions on a specific contract during the day
+
 select authorizer, action, counter from eos_DAILY_COUNTS 
 where xday = '2021-11-09' and contract='gravyhftdefi' order by counter desc limit 20;
+
+# daily unique users for a month
+
+select count(distinct authorizer) as USERS, xday from eos_DAILY_COUNTS 
+where xday >= '2021-10-01' and xday < '2021-11-01' group by xday;
 
 ```
 
