@@ -6,6 +6,7 @@ The data is taken from EOSIO state history plugin, processed by [Chronicle](http
 
 The [database schema](https://github.com/cc32d9/eosio_activity_db/blob/master/eosio_activity_tables.psql) consists of a set of tables for every chain, with blockchain name as a prefix: 
 
+* `SYNC` contains the last processed block number for every chain.
 * `%%_CONTRACTS` lists all known contracts
 * `%%_NEWACCOUNT` stores the account creation history
 * `%%_DAILY_COUNTS` has daily counters for every contract, action and authorizer
