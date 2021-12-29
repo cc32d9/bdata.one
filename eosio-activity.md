@@ -23,7 +23,7 @@ Public access to the data is available for any MySQL/MariaDB client.
 * password: `eosio_activity_ro`
 * database: `eosio_activity`
 
-Host in Europe: `eu01.pub.bdata.one`
+Host in Europe:
 
 * host: `eu01.pub.bdata.one`
 * port: `3301`
