@@ -10,7 +10,7 @@ BDATA.one is a public service providing access to various blockchain data archiv
 
 # sponsors
 
-This service is sponsored by [EOS Blockchain Community](https://pomelo.io/grants/accounting) and [WAX Labs](https://labs.wax.io/proposals/27)
+This service is sponsored by [EOS Blockchain Community](https://pomelo.io/grants/accounting), [WAX Labs](https://labs.wax.io/proposals/27) and [Telos Works](https://app.telos.net/trails/ballots/accounting/1642462699170)
 
 Your contributions are welcome at `cc32dnineexp` on EOS, Telos and WAX
 
