@@ -1,6 +1,10 @@
 # database of token transfers for public EOSIO chains
 
-This service provides access to the full history of token transfers for several public EOSIO blockchains: EOS, Proton, Telos, and WAX. In EOS history, EIDOS and POW token are filtered out. The database contains irreversible transactions only.
+This service provides access to the full history of token transfers for several public EOSIO blockchains: EOS, Proton, Telos, and WAX. 
+
+The database contains irreversible transactions only.
+
+Several spamming contracts are blacklisted. On EOS: `eidosonecoin`, `eosiopowcoin`. On Telos: `richcoincoin`.
 
 The data is taken from EOSIO state history plugin, processed by [Chronicle](https://github.com/EOSChronicleProject), and processed by the [writer script](https://github.com/cc32d9/eosio_token_accounting). 
 
