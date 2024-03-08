@@ -7,6 +7,7 @@
 * 2022-05-04: [WAX Labs grant](https://labs.wax.io/proposals/68), [$16000](https://waxblock.io/transaction/57b221fe2ec8d401657a4a81669e63656a131e8911fdc2302d57f6e06dcf810e)
 * 2022-05-31: [EOS Pomelo "accounting" grant](https://pomelo.io/grants/accounting), [$6190](https://bloks.io/transaction/c42116c6c82ec71e29261c62b92b6301d39384dfcaee3aafc5ffaa10e364ac0f)
 * 2023-06-16: WAX Labs grant, [$16000](https://waxblock.io/transaction/03ea0db413126a71ad3fd5c862f6821d3c87a58ec6ca0da0c94b8475d8cd58d4)
+* 2024-03-01: EOS Amsterdam co-sponsoring (200 EUR/month)
 
 
 
