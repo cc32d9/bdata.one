@@ -1,6 +1,6 @@
 # database of token transfers for public EOSIO chains
 
-This service provides access to the full history of token transfers for several public EOSIO blockchains: EOS, Proton, Telos, and WAX. 
+This service provides access to the full history of token transfers for several public EOSIO blockchains: EOS, XPR (ex-Proton), Libre, Telos, and WAX. 
 
 The database contains irreversible transactions only.
 
