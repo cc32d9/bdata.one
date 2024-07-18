@@ -1,6 +1,6 @@
 # daily activity database for public EOSIO chains
 
-This service provides daily activity counters for every contract, action and user, for several public EOSIO blockchains: EOS, FIO, Proton, Telos, UX, and WAX.
+This service provides daily activity counters for every contract, action and user, for several public EOSIO blockchains: EOS, FIO, XPR (ex-Proton), Telos, Libre, and WAX.
 
 The data is taken from EOSIO state history plugin, processed by [Chronicle](https://github.com/EOSChronicleProject), and processed by the [writer script](https://github.com/cc32d9/eosio_activity_db). 
 
